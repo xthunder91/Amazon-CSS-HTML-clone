@@ -18,7 +18,8 @@ This project is a simple clone of the Amazon homepage using only HTML and CSS. I
 3. Open `index.html` in your browser to view the site.
 
 ## Screenshots
-![Screenshot](screenshot.png)
+![Amazon Clone Screenshot 1](amazon-clone.png)
+![Amazon Clone Screenshot 2](amazon-clone2.png)
 
 ## License
 This project is for educational purposes only and is not affiliated with Amazon.
